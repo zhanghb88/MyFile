@@ -1,3 +1,7 @@
 add test src
 add test1 src
+<<<<<<< HEAD
 分之、合并测试
+=======
+add brach_test1
+>>>>>>> brache_Test1
